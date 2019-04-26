@@ -3,6 +3,7 @@
 	url = https://github.com/cmusphinx/pocketsphinx
 [submodule "deps/sphinxbase"]
 	path = deps/sphinxbase
-	url = https://github.com/renatocrobledo/sphinxbase@b55cf81dc8f2a4da5550222fbf775d4bd36075be
+	url = https://github.com/renatocrobledo/sphinxbase
+  branch = mac_library_adaptation
 
 
