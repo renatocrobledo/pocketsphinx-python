@@ -4,6 +4,6 @@
 [submodule "deps/sphinxbase"]
 	path = deps/sphinxbase
 	url = https://github.com/renatocrobledo/sphinxbase
-  branch = mac_library_adaptation
+	branch = mac_library_adaptation
 
 
