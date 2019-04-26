@@ -3,4 +3,6 @@
 	url = https://github.com/cmusphinx/pocketsphinx
 [submodule "deps/sphinxbase"]
 	path = deps/sphinxbase
-	url = https://github.com/cmusphinx/sphinxbase
+	url = https://github.com/renatocrobledo/sphinxbase
+
+
